@@ -139,7 +139,6 @@ If you're passionate about software engineering or AI prompt engineering, consid
 ---
 
 ## 🏷️ License  
-This project is licensed under the MIT License – feel free to use, modify, and distribute!  
 
 ---
 
